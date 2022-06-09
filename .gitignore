@@ -1,4 +1,4 @@
-# Miscellaneous
+ git push --set-upstream origin master# Miscellaneous
 *.class
 *.log
 *.pyc
@@ -24,7 +24,7 @@ migrate_working_dir/
 # Flutter/Dart/Pub related
 **/doc/api/
 **/ios/Flutter/.last_build_id
-.dart_tool/
+.dart_tool/ git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master git push --set-upstream origin master
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
